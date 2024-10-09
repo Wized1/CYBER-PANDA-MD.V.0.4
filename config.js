@@ -1,4 +1,4 @@
-const fs = require("fs");
+noconst fs = require("fs");
 const chalk = require("chalk");
 
 
@@ -21,12 +21,12 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94702782946", "+94702782946"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94702782946", "+94702782946"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94702782946"];
+global.Owner = ["Bhayo MD"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+923023229453", "+94702782946"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["nothing"];
 global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
+global.BotName = "BHAYO MD";
+global.packname = "🦋 │BHAYO│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
 global.author = "SACHITH";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
@@ -88,7 +88,7 @@ global.mess = {
   botonly: 'Only the *Bot itself* can use this command!',
   waiting: 'Just Wait...',
   nolink: 'Please provide me *link*, Baka!',
-  error: 'An error occurd!',
+  error: 'error no.0000',
   banned: 'You are *Banned* fron using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
   nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
